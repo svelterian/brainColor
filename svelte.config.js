@@ -1,4 +1,4 @@
-// svelte.config.js 입니다. 테스트.git add .
+// svelte.config.js
 import adapter from '@sveltejs/adapter-node';
 
 export default {
@@ -14,4 +14,3 @@ export default {
 		})
 	}
 };
-
